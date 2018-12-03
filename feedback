@@ -1,0 +1,3 @@
+11.17
+Don't forget that numpy package has lots of useful functions - namely zeros() and ones(), just like MATLAB. You can create arrays of 1's and 0's using these and don't have to rely on your counting ability to create them by hand. Also, I wouldn't say that this lcm fails the autocorrelation test, it is rather close to the expected value of 1/4/ At most I would say it's worth a second look using another test. (really, it would be a small miracle if the autocorrelation of a good random number generator would fall exactly at 1/4)
+Now, you just have to look at problem 2
